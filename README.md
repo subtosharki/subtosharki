@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/49736448/184518247-5c705676-31f1-489c-a9f2-bb487f1d5c65.png" width="350"/>
   <img src="https://komarev.com/ghpvc/?subtosharki&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Welcome
-</h1>
 </div>
 
 ---
