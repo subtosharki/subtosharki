@@ -7,6 +7,8 @@
 
 ### :man_technologist: About Me:
 
+i :heart: APIs
+
 Typescript Backend Developer
 
 - I’m working on expanding my knowledge with REST APIs (soon websockets) and backend libraries/frameworks.
