@@ -9,11 +9,9 @@
 
 Typescript Backend Developer
 
-- I’m working on expanding my knowledge with APIs and backend libraries/frameworks.
+- I’m working on expanding my knowledge with REST APIs (soon websockets) and backend libraries/frameworks.
 
 - I want to try and contribute to more open source projects
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
