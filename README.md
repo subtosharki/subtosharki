@@ -7,7 +7,7 @@
 
 ### :man_technologist: About Me:
 
-i :heart: APIs
+I :heart: APIs
 
 Typescript Backend Developer
 
