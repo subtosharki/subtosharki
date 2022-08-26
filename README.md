@@ -9,6 +9,8 @@
 
 I :heart: APIs
 
+Lead API Developer over at [@roleplaybot-developers](https://github.com/roleplaybot-developers). 
+
 Typescript Backend Developer
 
 - I’m working on expanding my knowledge with REST APIs (soon websockets) and backend libraries/frameworks.
