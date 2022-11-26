@@ -15,7 +15,9 @@ Lead API Developer over at [@roleplaybot-developers](https://github.com/roleplay
 
 Typescript Backend Developer
 
-- I’m working on expanding my knowledge with REST APIs, websockets and developing backend libraries/frameworks.
+- I have lots a strong background with REST APIs and websockets.
+
+- I’m working on learning Dart/Flutter and developing backend libraries/frameworks in TypeScript.
 
 - I want to try and contribute to more open source projects
 
