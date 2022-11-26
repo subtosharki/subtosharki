@@ -15,7 +15,7 @@ Lead API Developer over at [@roleplaybot-developers](https://github.com/roleplay
 
 Typescript Backend Developer
 
-- I have a strong background with REST APIs and websockets.
+- I have a strong background with REST APIs and websockets using NestJS.
 
 - I’m working on learning Dart/Flutter and developing backend libraries/frameworks in TypeScript.
 
