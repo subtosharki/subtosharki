@@ -7,7 +7,7 @@
 
 ### :man_technologist: About Me:
 
-I :heart: APIs
+I :heart: anything backend
 
 [My Portfolio](https://subtosharki-portfolio.up.railway.app/) as an API
 
