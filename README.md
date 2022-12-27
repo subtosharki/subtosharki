@@ -17,7 +17,7 @@ Typescript Backend Developer
 
 - I have a strong background with REST APIs and websockets using NestJS.
 
-- I’m working on expanding my knowledge with C++ and developing backend libraries/frameworks in TypeScript.
+- I’m working on expanding my knowledge with Go and developing backend libraries/frameworks in TypeScript.
 
 - I want to try and contribute to more open source projects.
 
