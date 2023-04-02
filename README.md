@@ -37,6 +37,15 @@ Typescript Backend Developer
 
 ---
 
+### My Experiences
+ 
+ 04/20/2021 -> Present Day
+ - Head of Development at [ExiaRP](https://discord.gg/PvDaRnCwwe)
+
+ 08/10/2022 -> 03/04/2023
+ - Lead API Developer at [@roleplaybot-developers](https://github.com/roleplaybot-developers)
+---
+
 ### My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subtosharki&theme=dark&background=000000)](https://git.io/streak-stats)
