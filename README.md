@@ -9,35 +9,40 @@
 
 I :heart: anything backend
 
+Self taught
+
 [My Portfolio](https://subtosharki-portfolio.up.railway.app/) as an API
 
-Typescript Backend Developer
+Begginer Frontend Developer / Junior Backend Developer
 
-- I have a strong background with REST APIs and websockets using NestJS.
+- Strong background with REST APIs and websockets using NestJS.
 
-- I’m working on expanding my knowledge with Go and developing backend libraries/frameworks in TypeScript.
+- Starting to learn Svelte, still very new with HTML/CSS
 
-- I want to try and contribute to more open source projects.
+Beginner Golang Developer
 
-### :hammer_and_wrench: Languages and Tools :
+- Great understanding of Golang REST frameworks like [Fiber](https://github.com/gofiber/fiber)
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain.svg" title="PostgteSQL" alt="PostgteSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg" title="GoLang" alt="GoLang" width="40" height="40"/>
-</div>
+- After having more expoeriance, eventually I want to move to a Svelte/Fiber stack
+
+
+### :hammer_and_wrench: My Stack:
+
+Frontend
+- [SvelteKit](https://kit.svelte.dev/)
+
+Backend
+- [Fiber](https://github.com/gofiber/fiber) 
+
+Tools
+- [Railway](https://railway.app/)
+- [MongoDB](https://www.mongodb.com/)
+- [Webstorm](https://www.jetbrains.com/webstorm/)
+- [GoLand](https://www.jetbrains.com/go/)
 
 ---
 
-### My Experiences
+### My Experiences:
  
  04/20/2021 -> Present Day
  - Head of Development at [ExiaRP](https://discord.gg/PvDaRnCwwe)
