@@ -33,6 +33,7 @@ Frontend
 
 Backend
 - [Fiber](https://github.com/gofiber/fiber) 
+- [NestJS](https://nestjs.com) 
 
 Tools
 - [Railway](https://railway.app/)
