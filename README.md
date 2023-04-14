@@ -11,8 +11,6 @@ I :heart: anything backend
 
 Self taught
 
-[My Portfolio](https://subtosharki-portfolio.up.railway.app/) as an API
-
 Begginer Frontend Developer / Junior Backend Developer
 
 - Strong background with REST APIs and websockets using NestJS.
