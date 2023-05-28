@@ -45,7 +45,7 @@ Tools
 ### My Experiences:
  
  04/20/2021 -> Present Day
- - Head of Development at [@exiarp-development](https://github.com/ExiaRP-Development)
+ - Head of Development at [ExiaRP](https://discord.gg/PvDaRnCwwe)
 
  08/10/2022 -> 03/04/2023
  - Lead API Developer at [@roleplaybot-developers](https://github.com/roleplaybot-developers)
