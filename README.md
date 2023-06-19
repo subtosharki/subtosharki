@@ -43,6 +43,9 @@ Tools
 ---
 
 ### My Experiences:
+
+ 06/15/2023 -> Present Day
+ - IT Specialist at [VertiKal Tech](https://vertikaltech.com)
  
  04/20/2021 -> Present Day
  - Head of Development at [ExiaRP](https://discord.gg/PvDaRnCwwe)
