@@ -57,8 +57,8 @@ Tools
 ### My Stats:
 
 
-[![GitHub Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=subtosharki&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![GitHub Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=subtosharki&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subtosharki&theme=dark)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subtosharki&theme=dark)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subtosharki&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subtosharki&layout=compact&theme=dark)
