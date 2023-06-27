@@ -11,13 +11,13 @@ I :heart: anything backend
 
 Self taught
 
-Begginer Javascript Frontend Developer / Junior Backend Developer
+Junior Javascript Frontend Developer / Mid-level Backend Developer
 
 - Strong background with REST APIs and websockets using NestJS.
 
 - Starting to learn Svelte, still very new with HTML/CSS
 
-Beginner Golang Developer
+Junior Golang Developer
 
 - Great understanding of Golang REST frameworks like [Fiber](https://github.com/gofiber/fiber)
 
