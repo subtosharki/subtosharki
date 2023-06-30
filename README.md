@@ -11,7 +11,7 @@ I :heart: anything backend
 
 Self taught
 
-Junior Javascript Frontend Developer / Mid-level Backend Developer
+Mid-level Backend Developer / Junior Javascript Frontend Developer
 
 - Strong background with REST APIs and websockets using NestJS.
 
