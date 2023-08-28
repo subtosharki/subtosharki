@@ -47,9 +47,6 @@ Tools
  04/20/2021 -> Present Day
  - Head of Development at [ExiaRP](https://discord.gg/PvDaRnCwwe)
 
- 08/01/2023 -> Present Day
-- Senior Developer at [Clash Development](https://clashdevelopment.com)
-
  08/10/2022 -> 03/04/2023
  - Lead API Developer at [@roleplaybot-developers](https://github.com/roleplaybot-developers)
 ---
