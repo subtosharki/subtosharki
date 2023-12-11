@@ -25,7 +25,7 @@ Tools:
 - [Webstorm](https://www.jetbrains.com/webstorm/)
 - [GoLand](https://www.jetbrains.com/go/)
 - [Docker](https://www.docker.com/)
-- [Kotlin Compose Multiplatform](https://kotlinlang.org/docs/compose/multiplatform.html) (Newly Learning)
+- [Kotlin Compose Multiplatform](https://kotlinlang.org/docs/compose/multiplatform.html)
 
 ---
 
