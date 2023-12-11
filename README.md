@@ -10,6 +10,9 @@ I'm a self-taught developer with a passion for all things backend. Currently div
 
 ## :hammer_and_wrench: My Stack
 
+Mobile:
+- [Kotlin Compose Multiplatform](https://www.jetbrains.com/kotlin-multiplatform/)
+
 Frontend:
 - [SvelteKit](https://kit.svelte.dev/)
 
@@ -25,7 +28,6 @@ Tools:
 - [Webstorm](https://www.jetbrains.com/webstorm/)
 - [GoLand](https://www.jetbrains.com/go/)
 - [Docker](https://www.docker.com/)
-- [Kotlin Compose Multiplatform](https://kotlinlang.org/docs/compose/multiplatform.html)
 
 ---
 
