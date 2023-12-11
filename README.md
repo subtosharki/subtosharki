@@ -1,18 +1,11 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/49736448/184518247-5c705676-31f1-489c-a9f2-bb487f1d5c65.png" width="350" alt="Profile Image">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=subtosharki&style=flat-square&color=blue" alt="Profile Views">
-</p>
-
----
-
 ## :man_technologist: About Me
 
-I'm a self-taught developer with a passion for all things backend. I have experience as a mid-level Backend Developer and am actively transitioning to Rust, making me a beginner Rust developer.
+I'm a self-taught developer with a passion for all things backend. Currently diving into the world of Kotlin Compose Multiplatform, I'm broadening my horizons beyond backend development.
 
 - 🌐 Strong background in REST APIs and websockets using NestJS.
 - 💡 Exploring Svelte for frontend development.
 - 👨‍💻 Transitioning from Go to Rust, gaining experience with the Rust language.
+- 📱 Learning Kotlin Compose Multiplatform for cross-platform UI development.
 - 💼 Experienced with Axum, a web framework for Rust.
 
 ## :hammer_and_wrench: My Stack
@@ -32,6 +25,7 @@ Tools:
 - [Webstorm](https://www.jetbrains.com/webstorm/)
 - [GoLand](https://www.jetbrains.com/go/)
 - [Docker](https://www.docker.com/)
+- [Kotlin Compose Multiplatform](https://kotlinlang.org/docs/compose/multiplatform.html) (Newly Learning)
 
 ---
 
