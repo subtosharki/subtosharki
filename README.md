@@ -33,7 +33,7 @@ Tools:
 
 ## My Experiences
 
-- **Head of Development** at [ExiaRP](https://discord.gg/PvDaRnCwwe) (04/19/2021 - Present)
+- **Head of Development** at [ExiaRP](https://discord.gg/PvDaRnCwwe) (04/19/2021 - 01/26/2024)
 - **Lead API Developer** at [@roleplaybot-developers](https://github.com/roleplaybot-developers) (08/10/2022 - 03/04/2023)
 
 ---
